@@ -6,5 +6,14 @@ Protect your databases under human/hacker control.
 
 Version | Redis | MariaDB
 --------|-------|--------
-  1.0   |   +   |   -
-  2.0   |   +   |   +
+  1.x   |   +   |   -
+  2.x   |   +   |   +
+
+
+# License
+
+Please see [LICENSE](https://github.com/jumpsql/JumpSQL/blob/master/LICENSE) for licensing details.
+
+# Author
+
+Zheng Liu
