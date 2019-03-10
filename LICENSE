@@ -1,0 +1,8 @@
+JumpSQL Commercial License for OEMs, ISVs and VARs
+@liuzheng provides its JumpSQL under a dual license model designed to meet the development and distribution needs of both commercial distributors (such as OEMs, ISVs and VARs) and open source projects.
+
+For OEMs, ISVs, VARs and Other Distributors of Commercial Applications:
+OEMs (Original Equipment Manufacturers), ISVs (Independent Software Vendors), VARs (Value Added Resellers) and other distributors that combine and distribute commercially licensed software with JumpSQL software and do not wish to distribute the source code for the commercially licensed software under version 2 of the GNU General Public License (the "GPL") must enter into a commercial license agreement with @liuzheng.
+
+For Open Source Projects and Other Developers of Open Source Applications:
+For developers of Free Open Source Software ("FOSS") applications under the GPL that want to combine and distribute those FOSS applications with JumpSQL software, JumpSQL open source software licensed under the GPLv2 is the best option.
